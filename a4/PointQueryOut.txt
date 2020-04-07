@@ -1,0 +1,10 @@
+roundrobinratingspart0,1,122,5.0
+roundrobinratingspart1,1,539,5.0
+roundrobinratingspart2,1,420,5.0
+roundrobinratingspart3,1,588,5.0
+roundrobinratingspart4,1,480,5.0
+rangeratingspart4,1,122,5.0
+rangeratingspart4,1,420,5.0
+rangeratingspart4,1,480,5.0
+rangeratingspart4,1,539,5.0
+rangeratingspart4,1,588,5.0
